@@ -6,9 +6,5 @@ Desafio de projeto do Bootcamp GFT Start Java da DIO.
 
 Repositório criado para compartilhar à prática dos seguintes padrões de projeto com Java puro:
 
-Singleton
-
-Strategy
-
-Facade
+Singleton, Strategy, Facade.
 
