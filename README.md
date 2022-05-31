@@ -2,7 +2,7 @@
 
 Desafio de projeto do Bootcamp GFT Start Java da DIO.
 
-##SOBRE
+## SOBRE
 
 Repositório criado para compartilhar à prática dos seguintes padrões de projeto com Java puro:
 
